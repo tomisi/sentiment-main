@@ -45,5 +45,5 @@ Dataset Accessible here [Dataset](https://www.kaggle.com/datasets/niraliivaghani
 
      
 Other Contributors 
-John Thuo
+John Thuo,
 Clare Kanja
